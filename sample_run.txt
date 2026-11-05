@@ -1,0 +1,147 @@
+
+===== Calculator & Unit Converter =====
+1) Add
+2) Subtract
+3) Multiply
+4) Divide
+5) Convert units
+6) Quit
+Choose an option (1-6): Invalid choice. Please pick one of: 1, 2, 3, 4, 5, 6.
+Choose an option (1-6): First number: That is not a number. Please enter one, e.g. 12 or 3.5.
+First number: Input cannot be empty. Please enter a number, e.g. 12 or 3.5.
+First number: Second number: Result: 12.0
+
+===== Calculator & Unit Converter =====
+1) Add
+2) Subtract
+3) Multiply
+4) Divide
+5) Convert units
+6) Quit
+Choose an option (1-6): First number: Second number: Result: 2.5
+
+===== Calculator & Unit Converter =====
+1) Add
+2) Subtract
+3) Multiply
+4) Divide
+5) Convert units
+6) Quit
+Choose an option (1-6): First number: Second number: Result: Error: cannot divide by zero.
+
+===== Calculator & Unit Converter =====
+1) Add
+2) Subtract
+3) Multiply
+4) Divide
+5) Convert units
+6) Quit
+Choose an option (1-6): Invalid choice. Please pick one of: 1, 2, 3, 4, 5, 6.
+Choose an option (1-6): 
+--- Unit Conversions ---
+1) Kilometres to miles
+2) Miles to kilometres
+3) Celsius to Fahrenheit
+4) Fahrenheit to Celsius
+5) Kilograms to pounds
+6) Pounds to kilograms
+7) Back to main menu
+Choose a conversion: Celsius: Result: 212.0 °F
+
+===== Calculator & Unit Converter =====
+1) Add
+2) Subtract
+3) Multiply
+4) Divide
+5) Convert units
+6) Quit
+Choose an option (1-6): 
+--- Unit Conversions ---
+1) Kilometres to miles
+2) Miles to kilometres
+3) Celsius to Fahrenheit
+4) Fahrenheit to Celsius
+5) Kilograms to pounds
+6) Pounds to kilograms
+7) Back to main menu
+Choose a conversion: Celsius: Result: -40.0 °F
+
+===== Calculator & Unit Converter =====
+1) Add
+2) Subtract
+3) Multiply
+4) Divide
+5) Convert units
+6) Quit
+Choose an option (1-6): 
+--- Unit Conversions ---
+1) Kilometres to miles
+2) Miles to kilometres
+3) Celsius to Fahrenheit
+4) Fahrenheit to Celsius
+5) Kilograms to pounds
+6) Pounds to kilograms
+7) Back to main menu
+Choose a conversion: Kilometres: Result: 26.0976 miles
+
+===== Calculator & Unit Converter =====
+1) Add
+2) Subtract
+3) Multiply
+4) Divide
+5) Convert units
+6) Quit
+Choose an option (1-6): 
+--- Unit Conversions ---
+1) Kilometres to miles
+2) Miles to kilometres
+3) Celsius to Fahrenheit
+4) Fahrenheit to Celsius
+5) Kilograms to pounds
+6) Pounds to kilograms
+7) Back to main menu
+Choose a conversion: Kilograms: Result: 22.0462 pounds
+
+===== Calculator & Unit Converter =====
+1) Add
+2) Subtract
+3) Multiply
+4) Divide
+5) Convert units
+6) Quit
+Choose an option (1-6): 
+--- Unit Conversions ---
+1) Kilometres to miles
+2) Miles to kilometres
+3) Celsius to Fahrenheit
+4) Fahrenheit to Celsius
+5) Kilograms to pounds
+6) Pounds to kilograms
+7) Back to main menu
+Choose a conversion: Miles: Result: 42.1648 km
+
+===== Calculator & Unit Converter =====
+1) Add
+2) Subtract
+3) Multiply
+4) Divide
+5) Convert units
+6) Quit
+Choose an option (1-6): 
+--- Unit Conversions ---
+1) Kilometres to miles
+2) Miles to kilometres
+3) Celsius to Fahrenheit
+4) Fahrenheit to Celsius
+5) Kilograms to pounds
+6) Pounds to kilograms
+7) Back to main menu
+Choose a conversion: 
+===== Calculator & Unit Converter =====
+1) Add
+2) Subtract
+3) Multiply
+4) Divide
+5) Convert units
+6) Quit
+Choose an option (1-6): Goodbye!
